@@ -1,0 +1,48 @@
+```
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jebenius AI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#ueber-uns">Über uns</a></li>
+                <li><a href="#dienstleistungen">Dienstleistungen</a></li>
+                <li><a href="#kontakt">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="ueber-uns">
+            <h1>Willkommen bei Jebenius AI</h1>
+            <p>Jebenius AI ist ein Unternehmen, das sich auf die Entwicklung von künstlicher Intelligenz spezialisiert hat.</p>
+        </section>
+        <section id="dienstleistungen">
+            <h2>Unsere Dienstleistungen</h2>
+            <ul>
+                <li>Entwicklung von Chatbots</li>
+                <li>Entwicklung von künstlicher Intelligenz</li>
+                <li>Datenanalyse und -visualisierung</li>
+            </ul>
+        </section>
+        <section id="kontakt">
+            <h2>Kontakt</h2>
+            <p>Wenn Sie mehr über unsere Dienstleistungen erfahren möchten, kontaktieren Sie uns bitte unter:</p>
+            <ul>
+                <li>E-Mail: <a href="mailto:jebenius.ai@example.com">jebenius.ai@example.com</a></li>
+                <li>Telefon: +49 123 456 789</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Jebenius AI</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+```
